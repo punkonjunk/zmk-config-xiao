@@ -35,7 +35,7 @@
 &kp CAPSLOCK  &rgb_ug RGB_EFR  &rgb_ug RGB_EFF  &rgb_ug RGB_TOG  &rgb_ug RGB_SPD  &rgb_ug RGB_SPI              &trans  &trans  &trans      &trans      &trans   &trans
                                         &trans           &trans           &trans                                       &trans  &trans      &trans
                                                          &trans           &trans                                       &trans  &trans
-                  &bootloader           &reset                                                                                         &bt BT_CLR  &bt BT_NXT
+                  &bootloader       &sys_reset                                                                                         &bt BT_CLR  &bt BT_NXT
             >;
         };
     };
